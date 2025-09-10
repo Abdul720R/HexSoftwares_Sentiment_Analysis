@@ -5,9 +5,9 @@
 
 This project implements a sentiment analysis system using deep learning in Python. It classifies text reviews as Positive or Negative. Three types of models are explored:
 
-1.Simple RNN
-2.Bidirectional LSTM
-3.GRU
+* Simple RNN
+* Bidirectional LSTM
+* GRU
 
 Key features include data preprocessing, model training, evaluation, and live predictions.
 ---
