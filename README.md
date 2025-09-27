@@ -11,6 +11,10 @@ This project implements a sentiment analysis system using deep learning in Pytho
 
 Key features include data preprocessing, model training, evaluation, and live predictions.
 ---
+## 📸 Screenshots  
+  
+### 🌿 Prediction Result  
+![Prediction](sentiment.png)
 
 ## 🚀 Features
 
